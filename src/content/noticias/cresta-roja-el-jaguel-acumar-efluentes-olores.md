@@ -15,7 +15,7 @@ publishedAt: "2026-11-01"
 status: "review"
 featured: false
 image:
-  src: "https://media.eldiariosur.com/p/35616919734df8817d4e9ab019e0d7a3/adjuntos/291/imagenes/000/635/0000635076/1200x0/smart/mejorar-calidad-foto.png"
+  src: "/images/noticias/cresta-roja-planta-el-jaguel.webp"
   alt: "Acceso a la planta de WADE S.A. en El Jagüel, con el portón de ingreso cerrado."
 sources:
   - name: "ACUMAR — actuación de inspección de marzo de 2026, reproducida por El Diario Sur"
