@@ -1,5 +1,5 @@
 ---
-title: "Hudson: el Distrito «Eco-Urbano» que habilitaba edificios de hasta diez pisos y terminó frenado por la Corte"
+title: "Hudson: el Distrito «Eco-Urbano» que incluía un corredor con edificios de hasta diez pisos y terminó frenado por la Corte"
 description: "La Ordenanza 6552/24 creó cinco subzonas sobre un sector que el Código municipal clasificaba como Reserva Ambiental Ribereña. La Suprema Corte suspendió sus efectos y las obras, pero todavía no resolvió el fondo de la causa."
 slug: "hudson-distrito-eco-urbano-ordenanza-6552-suprema-corte"
 primaryTopic: "Sociedad"
@@ -45,7 +45,7 @@ image:
   attribution: "Cristina Sille / ANCCOM, publicada por Radio Nacional (14/12/2020)"
 ---
 
-En Hudson, el nombre elegido fue **Distrito Eco-Urbano**. La discusión llegó después, cuando hubo que mirar qué permitía construir la norma que lo creó: comercios, viviendas, edificios con planta baja más diez niveles y una nueva distribución de usos sobre un sector que el propio Código de Ordenamiento Urbano y Territorial de Berazategui describía como **Zona de Reserva Ambiental Ribereña**.
+En Hudson, el nombre elegido fue **Distrito Eco-Urbano**. La discusión llegó después, cuando hubo que mirar qué permitía construir la norma que lo creó: comercios, viviendas y un corredor ribereño donde se admitía planta baja más diez niveles, además de una nueva distribución de usos sobre un sector que el propio Código de Ordenamiento Urbano y Territorial de Berazategui describía como **Zona de Reserva Ambiental Ribereña**.
 
 La Ordenanza 6552/24 fue sancionada por el Concejo Deliberante el 15 de agosto de 2024 y promulgada por el Decreto 1595/24. Un año y siete meses después, el 17 de marzo de 2026, la Suprema Corte bonaerense suspendió sus efectos y ordenó paralizar cualquier trabajo o actividad que supusiera ejecutar el proyecto, hasta que exista una sentencia definitiva.
 
