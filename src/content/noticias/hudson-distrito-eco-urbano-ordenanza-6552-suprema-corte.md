@@ -12,7 +12,7 @@ provincia: "Buenos Aires"
 scope: "local"
 author: "Redacción QSK Noticias"
 publishedAt: "2026-11-01"
-status: "review"
+status: "published"
 featured: false
 sources:
   - name: "Municipalidad de Berazategui — Boletín Municipal N.º 138, Ordenanza 6552/24"
