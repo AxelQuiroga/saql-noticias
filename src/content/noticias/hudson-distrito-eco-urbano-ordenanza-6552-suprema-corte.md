@@ -51,6 +51,10 @@ La Ordenanza 6552/24 fue sancionada por el Concejo Deliberante el 15 de agosto d
 
 No es una declaración definitiva de inconstitucionalidad. Es una medida cautelar. Y aun así, el fallo deja planteadas preguntas incómodas sobre el orden en que se tomaron las decisiones, la documentación técnica que las respaldaba y el control provincial que debía intervenir.
 
+## En pocas palabras
+
+El Municipio aprobó en 2024 una nueva zonificación para un sector de Hudson que hasta entonces estaba clasificado como Reserva Ambiental Ribereña. La ordenanza incorporó usos urbanos, viviendas y un corredor donde se permitían edificios de planta baja más diez niveles. La Provincia observó problemas en el procedimiento y en la evaluación ambiental; en marzo de 2026, la Suprema Corte suspendió la norma y las actividades vinculadas con el proyecto. **La Justicia todavía no resolvió el fondo de la causa y la cautelar no equivale a una declaración definitiva de ilegalidad.**
+
 ## Primero, la reserva. Después, el distrito
 
 El expediente municipal citado por la Suprema Corte permite reconstruir un dato concreto: **Global Urbanization Group SA pidió la factibilidad y creación del emprendimiento el 25 de julio de 2024**. Menos de un mes después, el 15 de agosto, el Concejo Deliberante sancionó la Ordenanza 6552.
@@ -122,8 +126,6 @@ Un mes después llegó la Ordenanza 6552, con un polígono definido por otros l�
 También hay un antecedente municipal que sirve para entender el valor ambiental que la propia administración atribuía a la ribera. En agosto de 2023, el Municipio informó que llevaba adelante un Plan Integral de Forestación de la Ribera de Hudson, con el objetivo de plantar más de mil árboles y arbustos nativos y generar un corredor verde.
 
 ![Vecinos y voluntarios participan de una jornada de plantación de árboles y arbustos nativos en la ribera de Hudson.](https://berazategui.gob.ar/wp-content/uploads/2023/08/embellecimiento-ribera-hudson.jpg)
-
-*Imagen de archivo publicada por la Municipalidad de Berazategui el 16 de agosto de 2023. La fotografía documenta una jornada de forestación en la ribera; no corresponde a un relevamiento del predio del Distrito Eco-Urbano.*
 
 La importancia de estos ambientes no es una consigna. La Universidad Nacional de La Plata explica que los humedales contribuyen a regular crecidas, almacenar y filtrar agua, amortiguar inundaciones, sostener biodiversidad y estabilizar las costas. El Sistema de Información de Biodiversidad de la Administración de Parques Nacionales registra, además, la Reserva Natural Selva Marginal de Hudson, creada en 1991, con una superficie consignada de 1.200 hectáreas.
 
