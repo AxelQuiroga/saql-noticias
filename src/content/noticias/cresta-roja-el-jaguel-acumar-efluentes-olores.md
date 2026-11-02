@@ -12,7 +12,7 @@ provincia: "Buenos Aires"
 scope: "local"
 author: "Redacción QSK Noticias"
 publishedAt: "2026-11-01"
-status: "review"
+status: "published"
 featured: false
 image:
   src: "/images/noticias/cresta-roja-planta-el-jaguel.webp"
