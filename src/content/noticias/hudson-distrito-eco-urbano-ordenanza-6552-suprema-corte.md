@@ -40,12 +40,12 @@ sources:
     url: "https://www.radionacional.com.ar/berazategui-advierten-que-los-countries-atentan-contra-los-humedales/"
     description: "Cobertura publicada el 14 de diciembre de 2020; fotografía de archivo de Cristina Sille."
 image:
-  src: "https://berazategui.gob.ar/wp-content/uploads/2023/08/embellecimiento-ribera-hudson.jpg"
-  alt: "Vecinos y voluntarios participan de una jornada de plantación de árboles nativos en la ribera de Hudson."
-  attribution: "Municipalidad de Berazategui (16/08/2023)"
+  src: "https://cdn.radionacional.com.ar/wp-content/uploads/2020/12/001-08_Reserva_Sille_IMG_4462.jpg"
+  alt: "Vista de un sector de humedal de la Reserva Natural de Hudson, con vegetación ribereña y agua acumulada."
+  attribution: "Cristina Sille / ANCCOM, publicada por Radio Nacional (14/12/2020)"
 ---
 
-En Hudson, el nombre elegido fue **Distrito Eco-Urbano**. La discusión llegó después, cuando hubo que mirar qué permitía construir la norma que lo creó: comercios, viviendas, edificios de hasta diez plantas y una nueva distribución de usos sobre un sector que el propio Código de Ordenamiento Urbano y Territorial de Berazategui describía como **Zona de Reserva Ambiental Ribereña**.
+En Hudson, el nombre elegido fue **Distrito Eco-Urbano**. La discusión llegó después, cuando hubo que mirar qué permitía construir la norma que lo creó: comercios, viviendas, edificios con planta baja más diez niveles y una nueva distribución de usos sobre un sector que el propio Código de Ordenamiento Urbano y Territorial de Berazategui describía como **Zona de Reserva Ambiental Ribereña**.
 
 La Ordenanza 6552/24 fue sancionada por el Concejo Deliberante el 15 de agosto de 2024 y promulgada por el Decreto 1595/24. Un año y siete meses después, el 17 de marzo de 2026, la Suprema Corte bonaerense suspendió sus efectos y ordenó paralizar cualquier trabajo o actividad que supusiera ejecutar el proyecto, hasta que exista una sentencia definitiva.
 
@@ -119,13 +119,13 @@ Un mes después llegó la Ordenanza 6552, con un polígono definido por otros l�
 
 También hay un antecedente municipal que sirve para entender el valor ambiental que la propia administración atribuía a la ribera. En agosto de 2023, el Municipio informó que llevaba adelante un Plan Integral de Forestación de la Ribera de Hudson, con el objetivo de plantar más de mil árboles y arbustos nativos y generar un corredor verde.
 
-![Vecinos y voluntarios participan de una jornada de plantación de árboles y arbustos nativos en la ribera de Hudson.](/images/noticias/embellecimiento-ribera-hudson.jpg)
+![Vecinos y voluntarios participan de una jornada de plantación de árboles y arbustos nativos en la ribera de Hudson.](https://berazategui.gob.ar/wp-content/uploads/2023/08/embellecimiento-ribera-hudson.jpg)
 
 *Imagen de archivo publicada por la Municipalidad de Berazategui el 16 de agosto de 2023. La fotografía documenta una jornada de forestación en la ribera; no corresponde a un relevamiento del predio del Distrito Eco-Urbano.*
 
 La importancia de estos ambientes no es una consigna. La Universidad Nacional de La Plata explica que los humedales contribuyen a regular crecidas, almacenar y filtrar agua, amortiguar inundaciones, sostener biodiversidad y estabilizar las costas. El Sistema de Información de Biodiversidad de la Administración de Parques Nacionales registra, además, la Reserva Natural Selva Marginal de Hudson, creada en 1991, con una superficie consignada de 1.200 hectáreas.
 
-![Vista de un sector de humedal de la Reserva Natural de Hudson, con vegetación ribereña y agua acumulada.] (https://cdn.radionacional.com.ar/wp-content/uploads/2020/12/001-08_Reserva_Sille_IMG_4462.jpg)
+
 
 *Fotografía de archivo de Cristina Sille, publicada por Radio Nacional el 14 de diciembre de 2020. Es una imagen de la reserva y los humedales de Hudson, no una fotografía actual del terreno alcanzado por la Ordenanza 6552/24.*
 
@@ -134,8 +134,6 @@ La importancia de estos ambientes no es una consigna. La Universidad Nacional de
 La resolución judicial acredita que la Suprema Corte consideró verosímil el planteo ambiental para conceder una cautelar. También acredita que el Tribunal encontró insuficiente, en esa etapa, la documentación técnica presentada por el Municipio y que observó registros de maquinaria y actividad en una zona protegida.
 
 Pero el fallo no declara definitivamente inconstitucional la Ordenanza 6552/24, no determina una superficie total de humedal destruida y tampoco constituye una pericia ambiental sobre el estado actual del predio.
-
-En distintas denuncias públicas circuló la cifra de 150 hectáreas. Esa superficie no aparece en la resolución como una medición judicialmente constatada del daño. Por eso, QSK no la presenta como hectáreas efectivamente desmontadas o rellenadas.
 
 Tampoco alcanza con esta documentación para establecer qué ocurrió físicamente en el terreno después de la medida cautelar, si hubo nuevas inspecciones, qué presentaciones posteriores realizaron las partes o si se dictaron decisiones procesales posteriores que todavía no aparecen en las publicaciones oficiales consultadas.
 
