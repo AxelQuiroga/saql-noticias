@@ -17,7 +17,6 @@ featured: false
 image:
   src: "https://media.eldiariosur.com/p/35616919734df8817d4e9ab019e0d7a3/adjuntos/291/imagenes/000/635/0000635076/1200x0/smart/mejorar-calidad-foto.png"
   alt: "Acceso a la planta de WADE S.A. en El Jagüel, con el portón de ingreso cerrado."
-  attribution: "El Diario Sur"
 sources:
   - name: "ACUMAR — actuación de inspección de marzo de 2026, reproducida por El Diario Sur"
     url: "https://www.eldiariosur.com/esteban-echeverria/2026/3/6/el-jagel-acumar-clausuro-cresta-roja-78297.html"
@@ -36,7 +35,7 @@ sources:
     description: "Publicada el 2 de septiembre de 2026; informa sobre suspensiones y despidos a partir de fuentes sindicales."
   - name: "El Diario Sur — Cresta Roja: sigue la suspensión de los trabajadores y el antiguo dueño quiere recuperar la planta de El Jagüel"
     url: "https://www.eldiariosur.com/esteban-echeverria/2026/8/28/cresta-roja-sigue-la-suspension-de-los-trabajadores-el-antiguo-dueno-quiere-recuperar-la-planta-de-el-jagel-82673.html"
-    description: "Fuente de la fotografía principal: acceso a la planta de WADE S.A. en El Jagüel."
+    description: "Cobertura del 28 de agosto de 2026 sobre la suspensión de tareas y los reclamos laborales."
   - name: "FM Extremo — Cresta Roja: sigue la suspensión de los trabajadores y el antiguo dueño quiere recuperar la planta"
     url: "https://www.fmextremo.com/esteban-echeverria/2026/8/28/cresta-roja-sigue-la-suspension-de-los-trabajadores-el-antiguo-dueno-quiere-recuperar-la-planta-de-el-jagel-82673.html"
     description: "Cobertura del 28 de agosto de 2026 sobre la suspensión de tareas y reclamos laborales."
