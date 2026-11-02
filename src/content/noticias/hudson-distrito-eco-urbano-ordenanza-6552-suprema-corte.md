@@ -71,7 +71,7 @@ El artículo 3 dividió el distrito en cinco subzonas. Tres fueron definidas com
 
 *Esquema explicativo elaborado por QSK Noticias a partir de la Ordenanza 6552/24 y sus anexos. No es un plano geográfico, no está a escala y no representa límites parcelarios.*
 
-Los indicadores de las tres zonas urbanas muestran la dimensión del cambio que proponía la norma:
+Los indicadores de las tres zonas urbanas muestran la dimensión del cambio que proponía la norma. El FOS expresa cuánto del terreno puede ocupar la edificación en planta baja; el FOT, la superficie total construible en relación con el lote:
 
 - **Área comercial y de equipamiento metropolitano (AU-B-CEM):** FOS 0,50, FOT 2 y densidad máxima de 300 habitantes por hectárea. La hoja de zona prevé planta baja más tres niveles, con una excepción que permite llegar a planta baja más cinco en parcelas superiores a 6.000 m² o con 70 metros de frente.
 - **Sector de urbanización especial (AU-B-SUE8):** vivienda unifamiliar, con FOS 0,40, FOT 0,8 y densidad máxima de 150 habitantes por hectárea. La altura prevista es planta baja más tres niveles.
@@ -97,13 +97,15 @@ La diferencia importa. Un estudio presentado por quien impulsa un emprendimiento
 
 El fallo no dice que el Ministerio de Ambiente haya dictado un rechazo definitivo del proyecto. Lo que sí documenta es que la convalidación provincial estaba pendiente y que la Dirección de Planificación había formulado observaciones relevantes.
 
+El Municipio también tuvo una posición en el expediente. Sostuvo que la ordenanza no estaba vigente mientras faltara la convalidación provincial y la caracterizó como un acto preparatorio; al mismo tiempo, defendió su competencia para modificar el Código de Ordenamiento Urbano y Territorial. La Corte señaló esa tensión en los argumentos municipales. No es un detalle menor: si la norma todavía no podía aplicarse, la discusión sobre los trabajos que buscaban preparar el emprendimiento quedaba en el centro del conflicto.
+
 ## Marzo de 2026: la Suprema Corte puso el freno
 
 La causa lleva el número **I. 80.042** y se inició por una demanda de inconstitucionalidad presentada por tres vecinos de Berazategui contra la Ordenanza 6552/24. La resolución del 17 de marzo de 2026 es una sentencia interlocutoria, no el fallo definitivo del expediente.
 
 Al analizar la cautelar, la Corte tuvo en cuenta el cambio entre la zonificación anterior de reserva ambiental ribereña y la nueva distribución de usos urbanos. También examinó las observaciones provinciales y el material fotográfico y audiovisual que los demandantes habían incorporado como hecho nuevo el 9 de febrero de 2026.
 
-Sobre ese material, el Tribunal señaló que las imágenes mostraban actividad y maquinaria pesada en una zona protegida, y que los trabajos coincidían, en principio, con la puesta en marcha del proyecto. La resolución también revisó el expediente iniciado por la empresa para obtener autorización judicial para realizar tareas en el predio.
+Sobre ese material, el Tribunal señaló que las imágenes mostraban actividad y maquinaria pesada en una zona protegida, y que los trabajos coincidían, en principio, con la puesta en marcha del proyecto. La resolución también revisó el expediente iniciado por la empresa para obtener autorización judicial para realizar tareas en el predio. En esa presentación, Global Urbanization Group SA había pedido permiso para trabajos que incluían saneamiento, cercado y limpieza, pero también movimientos de suelo, rellenos y apertura de calles para preparar el inmueble de cara al desarrollo urbanístico. El juzgado de Quilmes autorizó determinadas tareas el 3 de octubre de 2025; la Suprema Corte dejó esa decisión sin efecto en marzo de 2026.
 
 La decisión fue concreta: suspender los efectos de la Ordenanza 6552/24 y paralizar cualquier trabajo o actividad que supusiera ejecutar el Distrito Eco-Urbano hasta que se dictara sentencia definitiva. Además, dejó sin efecto la autorización que el Juzgado Contencioso Administrativo N.º 1 de Quilmes había concedido el 3 de octubre de 2025 y ordenó citar a Global Urbanization Group SA para que interviniera en la causa.
 
