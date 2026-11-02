@@ -36,9 +36,6 @@ sources:
   - name: "iProfesional — Cresta Roja: denuncian que la planta de Esteban Echeverría aún contamina"
     url: "https://www.iprofesional.com/actualidad/452865-cresta-roja-denuncian-que-la-planta-de-esteban-echeverria-contamina-pese-a-su-clausura"
     description: "Publicada el 20 de abril de 2026; recoge denuncias de vecinos y detalles del seguimiento ambiental informado por ACUMAR."
-image:
-  src: "/images/noticias/cresta-roja-efluentes-arroyo-ortega.svg"
-  alt: "Esquema ilustrativo de la planta avícola, el tratamiento de efluentes y el arroyo Ortega; señala el punto de descarga observado por ACUMAR en marzo de 2026."
 ---
 
 En marzo de 2026, una inspección de la Autoridad de Cuenca Matanza Riachuelo (ACUMAR) terminó con una clausura preventiva en la planta de Cresta Roja de El Jagüel. El organismo informó que uno de los conductos descargaba hacia el arroyo Ortega un líquido que, por su color, consistencia y olor, no se correspondía con un efluente correctamente tratado.
@@ -65,7 +62,7 @@ Por un lado, está el **efluente líquido** que ACUMAR encontró descargando fue
 
 En abril, referentes vecinales señalaron que los olores persistían y apuntaron especialmente al sector de procesamiento de plumas, vísceras y otros restos. Esas declaraciones dan cuenta de una denuncia sostenida, pero no reemplazan mediciones de calidad del aire ni permiten, por sí solas, establecer la composición de las emisiones o sus efectos sobre la salud.
 
-![Esquema ilustrativo del recorrido de los efluentes industriales hacia el arroyo Ortega y de las emisiones denunciadas por vecinos.]( /images/noticias/cresta-roja-efluentes-arroyo-ortega.svg )
+![Esquema ilustrativo del recorrido de los efluentes industriales hacia el arroyo Ortega y de las emisiones denunciadas por vecinos.](/images/noticias/cresta-roja-efluentes-arroyo-ortega.svg)
 
 *Esquema explicativo elaborado por QSK Noticias a partir de la información pública sobre la inspección. No es un plano de la planta ni representa mediciones o una reconstrucción técnica del sistema.*
 
