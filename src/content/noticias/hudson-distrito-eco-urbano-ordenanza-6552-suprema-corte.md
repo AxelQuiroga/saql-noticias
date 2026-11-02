@@ -1,6 +1,6 @@
 ---
-title: "Hudson: el Distrito «Eco-Urbano» que incluía un corredor con edificios de hasta diez pisos y terminó frenado por la Corte"
-description: "La Ordenanza 6552/24 creó cinco subzonas sobre un sector que el Código municipal clasificaba como Reserva Ambiental Ribereña. La Suprema Corte suspendió sus efectos y las obras, pero todavía no resolvió el fondo de la causa."
+title: "Hudson: qué quería construir el Distrito Eco-Urbano y por qué la Suprema Corte lo frenó"
+description: "La Ordenanza 6552/24 habilitó nuevos usos urbanos en una zona costera que estaba clasificada como reserva ambiental. Qué contemplaba el proyecto, qué observó la Provincia y qué decidió la Justicia."
 slug: "hudson-distrito-eco-urbano-ordenanza-6552-suprema-corte"
 primaryTopic: "Sociedad"
 secondaryTopics:
@@ -45,108 +45,111 @@ image:
   attribution: "Cristina Sille / ANCCOM, publicada por Radio Nacional (14/12/2020)"
 ---
 
-En Hudson, el nombre elegido fue **Distrito Eco-Urbano**. La discusión llegó después, cuando hubo que mirar qué permitía construir la norma que lo creó: comercios, viviendas y un corredor ribereño donde se admitía planta baja más diez niveles, además de una nueva distribución de usos sobre un sector que el propio Código de Ordenamiento Urbano y Territorial de Berazategui describía como **Zona de Reserva Ambiental Ribereña**.
+En la costa de Hudson se proyectó un nuevo distrito con comercios, viviendas y edificios de hasta diez niveles en uno de sus sectores. El Municipio lo llamó **Distrito Eco-Urbano** y lo aprobó en agosto de 2024. Pero había una cuestión de fondo: el área estaba clasificada hasta entonces como **Reserva Ambiental Ribereña**.
 
-La Ordenanza 6552/24 fue sancionada por el Concejo Deliberante el 15 de agosto de 2024 y promulgada por el Decreto 1595/24. Un año y siete meses después, el 17 de marzo de 2026, la Suprema Corte bonaerense suspendió sus efectos y ordenó paralizar cualquier trabajo o actividad que supusiera ejecutar el proyecto, hasta que exista una sentencia definitiva.
+La decisión abrió una disputa por el futuro de ese territorio y por los estudios que debían respaldar su transformación. En marzo de 2026, la Suprema Corte bonaerense suspendió la ordenanza y frenó las actividades relacionadas con el proyecto. La medida sigue vigente hasta que se resuelva el juicio, pero **no significa que la Corte ya haya declarado inconstitucional la norma**.
 
-No es una declaración definitiva de inconstitucionalidad. Es una medida cautelar. Y aun así, el fallo deja planteadas preguntas incómodas sobre el orden en que se tomaron las decisiones, la documentación técnica que las respaldaba y el control provincial que debía intervenir.
+Esta es la reconstrucción de lo que se aprobó, lo que objetó la Provincia y los motivos por los que intervino la Justicia.
 
-## En pocas palabras
+## Qué se aprobó en 2024
 
-El Municipio aprobó en 2024 una nueva zonificación para un sector de Hudson que hasta entonces estaba clasificado como Reserva Ambiental Ribereña. La ordenanza incorporó usos urbanos, viviendas y un corredor donde se permitían edificios de planta baja más diez niveles. La Provincia observó problemas en el procedimiento y en la evaluación ambiental; en marzo de 2026, la Suprema Corte suspendió la norma y las actividades vinculadas con el proyecto. **La Justicia todavía no resolvió el fondo de la causa y la cautelar no equivale a una declaración definitiva de ilegalidad.**
-
-## Primero, la reserva. Después, el distrito
-
-El expediente municipal citado por la Suprema Corte permite reconstruir un dato concreto: **Global Urbanization Group SA pidió la factibilidad y creación del emprendimiento el 25 de julio de 2024**. Menos de un mes después, el 15 de agosto, el Concejo Deliberante sancionó la Ordenanza 6552.
+El 15 de agosto de 2024, el Concejo Deliberante sancionó la Ordenanza 6552/24. Seis días después, el 21 de agosto, fue promulgada por el Decreto 1595/24.
 
 La norma creó el Distrito Eco-Urbano Berazategui Norte en un polígono delimitado por la autopista Buenos Aires-La Plata, la avenida Florencio Varela, el Río de la Plata y una fracción correspondiente a la planta de tratamiento de líquidos cloacales de AySA.
 
-Pero el punto de partida urbanístico no era una hoja en blanco. El Código aprobado por la Ordenanza 6426/23 clasificaba el sector como **AC-B-ReAr: Zona de Reserva Ambiental Ribereña**. El texto la describía como un área de importancia ambiental y paisajística regional, cuyo tratamiento debía profundizarse mediante estudios ambientales y aprobaciones provinciales.
+El proyecto no se limitaba a construir un paseo o recuperar un espacio verde. La ordenanza habilitó distintos usos urbanos: comercios, viviendas unifamiliares y edificios multifamiliares, además de instituciones y equipamiento. También reservó otros sectores para la protección y amortiguación del bosque nativo.
 
-La propia Corte recordó otro pasaje del Código: las reservas ribereñas son áreas que, aun cuando no estén protegidas por una ley específica, el ordenamiento municipal excluye de los procesos de urbanización por las funciones y servicios ecológicos que prestan a la región.
+El dato que vuelve central la discusión está en la clasificación anterior. El Código de Ordenamiento Urbano y Territorial, aprobado por la Ordenanza 6426/23, identificaba ese sector como **AC-B-ReAr: Zona de Reserva Ambiental Ribereña**. Según el propio Código, estas áreas cumplen funciones ecológicas y deben quedar excluidas de los procesos de urbanización.
 
-La Ordenanza 6552 introdujo una nueva regulación para ese polígono. El nombre «eco» no reemplazó el contenido normativo: lo que importa es qué usos, densidades y alturas habilitaba.
+En otras palabras: la Ordenanza 6552 modificó los usos previstos para un territorio que el ordenamiento municipal anterior reconocía como reserva ambiental.
 
-## Cinco zonas: tres con usos urbanos
+## Qué se podía construir
 
-El artículo 3 dividió el distrito en cinco subzonas. Tres fueron definidas como áreas urbanas: una comercial y de equipamiento metropolitano, otra para viviendas unifamiliares y un corredor ribereño con vivienda multifamiliar, comercio, instituciones y equipamiento. Las otras dos quedaron destinadas a amortiguación y bosque nativo.
+La Ordenanza 6552 dividió el distrito en cinco subzonas. Tres admitían actividades y construcciones urbanas; las otras dos estaban destinadas a la amortiguación y conservación del bosque nativo.
 
 ![Infografía de QSK Noticias con las cinco zonas y los indicadores urbanísticos previstos por la Ordenanza 6552/24.](/images/noticias/hudson-ordenanza-6552-indicadores.svg)
 
-*Esquema explicativo elaborado por QSK Noticias a partir de la Ordenanza 6552/24 y sus anexos. No es un plano geográfico, no está a escala y no representa límites parcelarios.*
+*Esquema elaborado por QSK Noticias a partir de la Ordenanza 6552/24 y sus anexos. No es un plano geográfico, no está a escala y no representa límites parcelarios.*
 
-Los indicadores de las tres zonas urbanas muestran la dimensión del cambio que proponía la norma. El FOS expresa cuánto del terreno puede ocupar la edificación en planta baja; el FOT, la superficie total construible en relación con el lote:
+Los indicadores urbanísticos permiten entender qué dimensión podía alcanzar el desarrollo. El **FOS** establece qué proporción del terreno puede ocupar una construcción en planta baja. El **FOT** indica cuánta superficie total se puede construir en relación con el tamaño del lote.
 
-- **Área comercial y de equipamiento metropolitano (AU-B-CEM):** FOS 0,50, FOT 2 y densidad máxima de 300 habitantes por hectárea. La hoja de zona prevé planta baja más tres niveles, con una excepción que permite llegar a planta baja más cinco en parcelas superiores a 6.000 m² o con 70 metros de frente.
-- **Sector de urbanización especial (AU-B-SUE8):** vivienda unifamiliar, con FOS 0,40, FOT 0,8 y densidad máxima de 150 habitantes por hectárea. La altura prevista es planta baja más tres niveles.
-- **Corredor ribereño (AU-B-CR):** vivienda multifamiliar, comercio, instituciones y equipamiento; FOS 0,60, FOT 2,7 y densidad máxima de 1.200 habitantes por hectárea. La hoja de zona contempla planta baja más diez niveles.
+- **Área comercial y de equipamiento metropolitano (AU-B-CEM):** permitía comercios y equipamiento, con FOS 0,50, FOT 2 y una densidad máxima de 300 habitantes por hectárea. La altura prevista era planta baja más tres niveles. En parcelas de más de 6.000 m² o con al menos 70 metros de frente, se contemplaba una excepción de planta baja más cinco niveles.
+- **Sector de urbanización especial (AU-B-SUE8):** destinado a viviendas unifamiliares, con FOS 0,40, FOT 0,8 y una densidad máxima de 150 habitantes por hectárea. La altura prevista era planta baja más tres niveles.
+- **Corredor ribereño (AU-B-CR):** admitía viviendas multifamiliares, comercios, instituciones y equipamiento. Establecía FOS 0,60, FOT 2,7 y una densidad máxima de 1.200 habitantes por hectárea. Para este corredor, la hoja de zona contemplaba planta baja más diez niveles.
 
-Las dos zonas complementarias eran el área de amortiguación del bosque nativo y el área de bosque nativo, esta última sujeta a la Ley provincial 14.888. La existencia de esas franjas de protección es parte del diseño de la ordenanza; no elimina el dato central: el mismo texto incorporó sectores con usos urbanos y parámetros constructivos concretos.
+Las otras dos subzonas eran el área de amortiguación del bosque nativo (AC-B-ABN) y el área de bosque nativo (AC-BN), vinculada a las disposiciones de la Ley provincial 14.888.
 
-El artículo 8 también estableció que los interesados debían proveer servicios esenciales, entre ellos pavimento, alumbrado, energía, desagües pluviales, agua corriente y cloacas. Es decir, no se trataba solamente de dibujar un paseo verde: la norma describía un desarrollo urbano que debía contar con infraestructura.
+La ordenanza también estableció que los interesados debían proveer servicios esenciales, como pavimento, alumbrado, energía, desagües pluviales, agua corriente y cloacas. Es decir, describía un desarrollo urbano que requería infraestructura, no solamente una intervención paisajística.
 
-## La pregunta que la Provincia hizo antes de que la Corte interviniera
+## Las observaciones de la Provincia
 
-El artículo 9 de la Ordenanza 6552 dejó su aplicación sujeta a lo que determinaran la Autoridad del Agua, el Ministerio de Ambiente bonaerense y la Dirección Provincial de Ordenamiento Urbano y Territorial. El artículo 10, además, exigió que la firma presentara los planos de subdivisión ante los organismos provinciales y los planos de obra ante el Municipio.
+La ordenanza no resolvía por sí sola todos los pasos necesarios para avanzar. Sus artículos 9 y 10 sujetaban el proyecto a determinaciones de organismos provinciales, entre ellos la Autoridad del Agua, el Ministerio de Ambiente y la Dirección Provincial de Ordenamiento Urbano y Territorial.
 
-Sin embargo, cuando la Provincia intervino para analizar la convalidación, la Dirección de Planificación Urbana y Territorial observó que **la ordenanza no había sido presentada en instancia de proyecto antes de su sanción**, como —según indicó— exigía la normativa provincial.
+Al analizar la documentación, la Dirección Provincial de Planificación Urbana y Territorial señaló que la ordenanza **no había sido presentada como proyecto antes de su sanción**. También describió la franja costera como un ambiente de alto valor ecológico y advirtió sobre su elevado riesgo de inundación.
 
-La misma dependencia describió la franja costera como parte de un sistema ribereño de alto valor ecosistémico y ambiental y señaló que estaba expuesta a un riesgo alto de inundación.
+La Municipalidad había incorporado documentación ambiental y técnica: informes vinculados con el cambio de uso del suelo, un Estudio de Impacto Ambiental, un plan de conservación del bosque nativo y propuestas para conectar el emprendimiento a las redes de agua y cloacas.
 
-La Municipalidad incorporó al expediente documentación vinculada con el Informe Ambiental Regional, la prefactibilidad ambiental por cambio de uso del suelo, el Estudio de Impacto Ambiental, el Plan de Conservación de Bosques Nativos y la factibilidad de conexión a los servicios de agua y cloacas.
+Pero la Suprema Corte observó que, en esa etapa del expediente, esos documentos no alcanzaban para evaluar adecuadamente las propuestas. En buena medida, contenían planteos del propio desarrollador, sin el análisis técnico suficiente que permitiera valorarlos.
 
-¿Qué encontró la Suprema Corte al revisar esos antecedentes? Que, en esa instancia cautelar, las piezas aportadas no contenían información suficiente para evaluar las propuestas: eran, en lo sustancial, documentos con propuestas del desarrollador, no análisis técnicos que permitieran ponderarlas.
+Hay una diferencia importante: presentar un estudio o una propuesta no equivale a obtener su aprobación. Y que una ordenanza exija futuras intervenciones provinciales tampoco significa que esas autorizaciones ya hayan sido concedidas.
 
-La diferencia importa. Un estudio presentado por quien impulsa un emprendimiento no equivale, por sí solo, a una evaluación independiente aprobada por la autoridad competente. Y una ordenanza que deja cuestiones ambientales sujetas a futuras determinaciones provinciales no demuestra que esas determinaciones ya se hayan producido.
+El fallo **no afirma que el Ministerio de Ambiente haya rechazado definitivamente el proyecto**. Lo que señala es que la convalidación provincial estaba pendiente y que la Dirección de Planificación había formulado observaciones relevantes.
 
-El fallo no dice que el Ministerio de Ambiente haya dictado un rechazo definitivo del proyecto. Lo que sí documenta es que la convalidación provincial estaba pendiente y que la Dirección de Planificación había formulado observaciones relevantes.
+La postura municipal también quedó bajo análisis. El Municipio sostuvo que la ordenanza no estaba vigente mientras no contara con la convalidación provincial y la describió como un acto preparatorio. Al mismo tiempo, defendió su facultad para modificar el Código de Ordenamiento Urbano y Territorial. La Corte advirtió una tensión entre esos argumentos, especialmente frente a la discusión sobre las actividades que se estaban realizando en el predio.
 
-El Municipio también tuvo una posición en el expediente. Sostuvo que la ordenanza no estaba vigente mientras faltara la convalidación provincial y la caracterizó como un acto preparatorio; al mismo tiempo, defendió su competencia para modificar el Código de Ordenamiento Urbano y Territorial. La Corte señaló esa tensión en los argumentos municipales. No es un detalle menor: si la norma todavía no podía aplicarse, la discusión sobre los trabajos que buscaban preparar el emprendimiento quedaba en el centro del conflicto.
+## Por qué intervino la Suprema Corte
 
-## Marzo de 2026: la Suprema Corte puso el freno
+El conflicto llegó al máximo tribunal bonaerense mediante la causa **I. 80.042**, iniciada por tres vecinos de Berazategui que cuestionaron la constitucionalidad de la Ordenanza 6552/24.
 
-La causa lleva el número **I. 80.042** y se inició por una demanda de inconstitucionalidad presentada por tres vecinos de Berazategui contra la Ordenanza 6552/24. La resolución del 17 de marzo de 2026 es una sentencia interlocutoria, no el fallo definitivo del expediente.
+Durante el proceso, los demandantes denunciaron que se estaban realizando trabajos en el área. El 9 de febrero de 2026 incorporaron esa situación como un hecho nuevo y acompañaron imágenes y registros audiovisuales. La Corte consideró que el material mostraba maquinaria y actividad que, en principio, podían estar relacionadas con la ejecución del proyecto.
 
-Al analizar la cautelar, la Corte tuvo en cuenta el cambio entre la zonificación anterior de reserva ambiental ribereña y la nueva distribución de usos urbanos. También examinó las observaciones provinciales y el material fotográfico y audiovisual que los demandantes habían incorporado como hecho nuevo el 9 de febrero de 2026.
+También examinó otra parte del expediente: Global Urbanization Group SA, la empresa vinculada al emprendimiento, había solicitado autorización judicial para realizar tareas en el predio. Entre los trabajos pedidos había tareas de limpieza y cercado, pero también movimientos de suelo, rellenos y apertura de calles para preparar el terreno.
 
-Sobre ese material, el Tribunal señaló que las imágenes mostraban actividad y maquinaria pesada en una zona protegida, y que los trabajos coincidían, en principio, con la puesta en marcha del proyecto. La resolución también revisó el expediente iniciado por la empresa para obtener autorización judicial para realizar tareas en el predio. En esa presentación, Global Urbanization Group SA había pedido permiso para trabajos que incluían saneamiento, cercado y limpieza, pero también movimientos de suelo, rellenos y apertura de calles para preparar el inmueble de cara al desarrollo urbanístico. El juzgado de Quilmes autorizó determinadas tareas el 3 de octubre de 2025; la Suprema Corte dejó esa decisión sin efecto en marzo de 2026.
+El Juzgado Contencioso Administrativo N.º 1 de Quilmes había autorizado determinadas tareas el 3 de octubre de 2025. En su resolución del 17 de marzo de 2026, la Suprema Corte dejó sin efecto esa autorización.
 
-La decisión fue concreta: suspender los efectos de la Ordenanza 6552/24 y paralizar cualquier trabajo o actividad que supusiera ejecutar el Distrito Eco-Urbano hasta que se dictara sentencia definitiva. Además, dejó sin efecto la autorización que el Juzgado Contencioso Administrativo N.º 1 de Quilmes había concedido el 3 de octubre de 2025 y ordenó citar a Global Urbanization Group SA para que interviniera en la causa.
+La decisión fue concreta:
 
-La Corte dejó una excepción acotada: permitió tareas de saneamiento para fijar límites físicos o cercados sin cimentaciones permanentes que impidieran el ingreso de terceros, y labores de limpieza para evitar la acumulación de residuos. No habilitó la continuidad de las obras del desarrollo.
+- Suspendió los efectos de la Ordenanza 6552/24.
+- Ordenó paralizar los trabajos y actividades que implicaran ejecutar el Distrito Eco-Urbano.
+- Dejó sin efecto la autorización judicial concedida en octubre de 2025.
+- Dispuso citar a Global Urbanization Group SA para que interviniera en la causa.
 
-La resolución invocó los principios preventivo y precautorio del derecho ambiental. En otras palabras, el Tribunal entendió que no correspondía esperar a que el daño pudiera ser irreversible para tomar una medida de protección.
+La Corte permitió únicamente tareas acotadas de saneamiento: trabajos para delimitar físicamente el predio o colocar cercos sin cimentaciones permanentes que impidieran el ingreso de terceros, y limpieza para evitar la acumulación de residuos. No autorizó continuar con las obras del desarrollo urbano.
 
-## La costa que también aparece en los documentos municipales
+¿Por qué tomó esa decisión antes de resolver el juicio? Porque entendió que existían elementos suficientes para adoptar una medida preventiva mientras se analizaba el fondo del caso. En materia ambiental, esperar a que un daño sea irreversible puede volver inútil cualquier protección posterior.
 
-La discusión no ocurre sobre un territorio sin antecedentes de protección. En julio de 2024, el Concejo Deliberante había sancionado la Ordenanza 6547, que declaró el Área Natural Protegida «Bosques Nativos de Hudson» y estableció la creación de la Reserva Natural Municipal Río de Hudson. La norma describió sus límites mediante el arroyo Baldovinos, la calle 63, el Camino de las Rosas y el Río de la Plata.
+**La resolución es una medida cautelar, no una sentencia definitiva.** La Corte suspendió la ordenanza y las actividades vinculadas con su ejecución, pero todavía debe resolver si la norma es constitucional.
 
-Un mes después llegó la Ordenanza 6552, con un polígono definido por otros límites: autopista, avenida Florencio Varela, río y planta de AySA. Son dos instrumentos diferentes. Con la documentación cartográfica consultada hasta ahora no corresponde afirmar que sus polígonos se superponen: para sostenerlo hace falta comparar técnicamente los anexos y sus límites georreferenciados.
+## Dos ordenanzas distintas y una costa en discusión
 
-También hay un antecedente municipal que sirve para entender el valor ambiental que la propia administración atribuía a la ribera. En agosto de 2023, el Municipio informó que llevaba adelante un Plan Integral de Forestación de la Ribera de Hudson, con el objetivo de plantar más de mil árboles y arbustos nativos y generar un corredor verde.
+Hay otro antecedente municipal que conviene distinguir. En julio de 2024, el Concejo Deliberante había aprobado la Ordenanza 6547/24, que declaró el Área Natural Protegida «Bosques Nativos de Hudson» y estableció la creación de la Reserva Natural Municipal Río de Hudson.
+
+La Ordenanza 6547 y la Ordenanza 6552 son instrumentos diferentes y describen sus respectivos ámbitos mediante límites distintos. Con la documentación cartográfica revisada para esta nota no alcanza para afirmar que sus polígonos se superponen. Para establecerlo hace falta comparar técnicamente los anexos y sus límites georreferenciados.
+
+También existe un antecedente de política ambiental municipal. En agosto de 2023, el Municipio informó que desarrollaba un Plan Integral de Forestación de la Ribera de Hudson, con la plantación prevista de más de mil árboles y arbustos nativos para generar un corredor verde.
 
 ![Vecinos y voluntarios participan de una jornada de plantación de árboles y arbustos nativos en la ribera de Hudson.](https://berazategui.gob.ar/wp-content/uploads/2023/08/embellecimiento-ribera-hudson.jpg)
 
-La importancia de estos ambientes no es una consigna. La Universidad Nacional de La Plata explica que los humedales contribuyen a regular crecidas, almacenar y filtrar agua, amortiguar inundaciones, sostener biodiversidad y estabilizar las costas. El Sistema de Información de Biodiversidad de la Administración de Parques Nacionales registra, además, la Reserva Natural Selva Marginal de Hudson, creada en 1991, con una superficie consignada de 1.200 hectáreas.
+La importancia ambiental de los humedales va más allá de la presencia de vegetación. La Universidad Nacional de La Plata explica que estos ambientes ayudan a regular las crecidas, almacenar y filtrar agua, amortiguar inundaciones, sostener la biodiversidad y estabilizar las costas.
 
+Por su parte, el Sistema de Información de Biodiversidad de la Administración de Parques Nacionales registra la Reserva Natural Selva Marginal de Hudson, creada en 1991, con una superficie consignada de 1.200 hectáreas.
 
+## Qué se sabe y qué falta esclarecer
 
-*Fotografía de archivo de Cristina Sille, publicada por Radio Nacional el 14 de diciembre de 2020. Es una imagen de la reserva y los humedales de Hudson, no una fotografía actual del terreno alcanzado por la Ordenanza 6552/24.*
+Los documentos permiten establecer varios puntos: el Municipio aprobó una nueva zonificación con usos urbanos sobre un sector antes clasificado como reserva ambiental; la Provincia formuló observaciones sobre el procedimiento, el riesgo de inundación y la documentación técnica; y la Suprema Corte suspendió la ordenanza y las actividades vinculadas con el proyecto.
 
-## Lo que el expediente permite afirmar y lo que todavía no
+Pero también hay límites claros sobre lo que puede afirmarse.
 
-La resolución judicial acredita que la Suprema Corte consideró verosímil el planteo ambiental para conceder una cautelar. También acredita que el Tribunal encontró insuficiente, en esa etapa, la documentación técnica presentada por el Municipio y que observó registros de maquinaria y actividad en una zona protegida.
+La resolución judicial no demuestra por sí sola cuántas hectáreas de humedal fueron afectadas, no constituye una pericia sobre el estado actual del terreno y no declara definitivamente inconstitucional la ordenanza. Tampoco permite reconstruir qué ocurrió en el predio después de la cautelar ni establecer, sin revisar actuaciones posteriores, cuál es el estado procesal más reciente de la causa.
 
-Pero el fallo no declara definitivamente inconstitucional la Ordenanza 6552/24, no determina una superficie total de humedal destruida y tampoco constituye una pericia ambiental sobre el estado actual del predio.
+Esas preguntas requieren nuevas comprobaciones: consultar las actuaciones judiciales posteriores, obtener información actualizada de los organismos provinciales y municipales y contrastar el estado del terreno con imágenes satelitales de distintas fechas o una inspección directa.
 
-Tampoco alcanza con esta documentación para establecer qué ocurrió físicamente en el terreno después de la medida cautelar, si hubo nuevas inspecciones, qué presentaciones posteriores realizaron las partes o si se dictaron decisiones procesales posteriores que todavía no aparecen en las publicaciones oficiales consultadas.
+Lo que ya está documentado alcanza, sin embargo, para entender el núcleo del conflicto: **se aprobó un cambio que abría la puerta a urbanizar una zona costera reconocida como reserva ambiental; los organismos provinciales formularon objeciones y la Suprema Corte decidió frenar el proyecto mientras analiza su legalidad.**
 
-La reconstrucción documental deja una secuencia difícil de ignorar: una empresa pidió la creación del emprendimiento; el Concejo aprobó una nueva zonificación; la Provincia observó que la norma no había sido presentada en la etapa de proyecto y señaló el valor ambiental y el riesgo de inundación de la costa; y la Suprema Corte suspendió la ordenanza y los trabajos vinculados con su ejecución.
+El nombre «Eco-Urbano» prometía integrar desarrollo y ambiente. La discusión judicial puso el foco en algo mucho más concreto: qué se podía construir, con qué estudios se justificó el cambio y qué controles debían existir antes de intervenir sobre la ribera.
 
-El distrito se llamó «Eco-Urbano». La pregunta que sigue abierta es bastante menos publicitaria: **¿con qué estudios, controles y autorizaciones podía transformarse ese territorio sin poner en riesgo el ambiente que las normas anteriores decían proteger?**
-
-Esa respuesta no la da un nombre, un folleto ni una promesa de desarrollo sustentable. Tiene que estar en los expedientes, en los informes técnicos, en las inspecciones y en las decisiones de los organismos responsables.
+La respuesta definitiva todavía está pendiente. Y no debería depender de cómo se bautizó el emprendimiento, sino de lo que acrediten los expedientes, los estudios técnicos y las decisiones de las autoridades responsables.
 
 ---
 
-*Alcance de esta reconstrucción: QSK revisó la Ordenanza 6552/24 y sus anexos, la Ordenanza 6547/24, la resolución pública de la causa I. 80.042 y documentación oficial y académica complementaria. Las imágenes de archivo están identificadas como tales. Este informe no reemplaza una inspección de campo ni un análisis satelital independiente del predio.*
+*Esta reconstrucción se basa en la Ordenanza 6552/24 y sus anexos, la Ordenanza 6547/24, la resolución interlocutoria de la causa I. 80.042 y documentación oficial y académica complementaria. Las fotografías se identifican como imágenes de archivo o ilustrativas cuando corresponde. Esta nota no reemplaza una inspección de campo ni un análisis satelital independiente del predio.*
