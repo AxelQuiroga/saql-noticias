@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="930" viewBox="0 0 1200 930" role="img" aria-labelledby="title desc">
+  <title id="title">Qué habilitaba la Ordenanza 6552/24 en el Distrito Eco-Urbano Berazategui Norte</title>
+  <desc id="desc">Infografía explicativa de las cinco zonas previstas por la ordenanza y de los indicadores urbanísticos de las tres zonas urbanas. No es un plano geográfico ni representa superficies o límites reales.</desc>
+  <rect width="1200" height="930" fill="#f4f7f8"/>
+  <rect x="0" y="0" width="1200" height="178" fill="#102c43"/>
+  <text x="64" y="65" fill="#a8d8c7" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2">QSK NOTICIAS · DOCUMENTO A DOCUMENTO</text>
+  <text x="64" y="119" fill="#ffffff" font-family="Arial,sans-serif" font-size="42" font-weight="700">Qué habilitaba la Ordenanza 6552/24</text>
+  <text x="64" y="154" fill="#d7e4eb" font-family="Arial,sans-serif" font-size="21">Cinco zonas, tres urbanas y un corredor ribereño de hasta PB + 10 plantas</text>
+
+  <text x="64" y="230" fill="#102c43" font-family="Arial,sans-serif" font-size="27" font-weight="700">Zonas urbanas</text>
+  <text x="64" y="264" fill="#536777" font-family="Arial,sans-serif" font-size="18">Indicadores máximos consignados en los anexos de la ordenanza</text>
+
+  <rect x="64" y="294" width="1072" height="160" rx="16" fill="#ffffff" stroke="#c9d5dc" stroke-width="2"/>
+  <rect x="64" y="294" width="14" height="160" rx="7" fill="#d28a36"/>
+  <text x="102" y="337" fill="#102c43" font-family="Arial,sans-serif" font-size="26" font-weight="700">AU-B-CEM · Comercio y equipamiento metropolitano</text>
+  <text x="102" y="372" fill="#536777" font-family="Arial,sans-serif" font-size="19">Comercio, oficinas, servicios y hotelería; no admite uso residencial exclusivo.</text>
+  <text x="102" y="420" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOS 0,50</text>
+  <text x="300" y="420" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOT 2</text>
+  <text x="455" y="420" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">Densidad 300 hab/ha</text>
+  <text x="790" y="420" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">PB + 3</text>
+  <text x="910" y="420" fill="#8a4d13" font-family="Arial,sans-serif" font-size="18" font-weight="700">PB + 5 en parcelas</text>
+  <text x="910" y="443" fill="#8a4d13" font-family="Arial,sans-serif" font-size="16">con más de 6.000 m² o 70 m de frente</text>
+
+  <rect x="64" y="476" width="1072" height="150" rx="16" fill="#ffffff" stroke="#c9d5dc" stroke-width="2"/>
+  <rect x="64" y="476" width="14" height="150" rx="7" fill="#7ca6d8"/>
+  <text x="102" y="519" fill="#102c43" font-family="Arial,sans-serif" font-size="26" font-weight="700">AU-B-SUE8 · Sector de urbanización especial</text>
+  <text x="102" y="554" fill="#536777" font-family="Arial,sans-serif" font-size="19">Vivienda unifamiliar; admite comercio minorista y servicios de escala barrial.</text>
+  <text x="102" y="597" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOS 0,40</text>
+  <text x="300" y="597" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOT 0,8</text>
+  <text x="455" y="597" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">Densidad 150 hab/ha</text>
+  <text x="790" y="597" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">PB + 3</text>
+
+  <rect x="64" y="648" width="1072" height="160" rx="16" fill="#ffffff" stroke="#c9d5dc" stroke-width="2"/>
+  <rect x="64" y="648" width="14" height="160" rx="7" fill="#d46e62"/>
+  <text x="102" y="691" fill="#102c43" font-family="Arial,sans-serif" font-size="26" font-weight="700">AU-B-CR · Corredor ribereño</text>
+  <text x="102" y="726" fill="#536777" font-family="Arial,sans-serif" font-size="19">Vivienda multifamiliar, comercio, instituciones y equipamiento.</text>
+  <text x="102" y="774" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOS 0,60</text>
+  <text x="300" y="774" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">FOT 2,7</text>
+  <text x="455" y="774" fill="#102c43" font-family="Arial,sans-serif" font-size="22" font-weight="700">Densidad 1.200 hab/ha</text>
+  <text x="790" y="774" fill="#a33f35" font-family="Arial,sans-serif" font-size="25" font-weight="700">PB + 10</text>
+  <text x="910" y="774" fill="#536777" font-family="Arial,sans-serif" font-size="17">máximo indicado</text>
+
+  <text x="64" y="858" fill="#102c43" font-family="Arial,sans-serif" font-size="23" font-weight="700">Zonas complementarias</text>
+  <rect x="64" y="878" width="515" height="38" rx="9" fill="#d7e8dc"/>
+  <text x="82" y="904" fill="#1c5137" font-family="Arial,sans-serif" font-size="17" font-weight="700">AC-B-ABN · Amortiguación del bosque nativo</text>
+  <rect x="598" y="878" width="538" height="38" rx="9" fill="#b9d9c2"/>
+  <text x="616" y="904" fill="#1c5137" font-family="Arial,sans-serif" font-size="17" font-weight="700">AC-BN · Bosque nativo, sujeto a Ley 14.888</text>
+</svg>
